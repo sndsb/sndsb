@@ -1,5 +1,4 @@
-# 💫 About Me:
-laravel
+
 
 
 ## 🌐 Socials:
